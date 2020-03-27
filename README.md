@@ -33,9 +33,9 @@ The `development` data is random. Each time we seed we expect to see different a
 
 ## Run The Server
 
-```sh
-npm start
-```
+use `npm start` to start the server normally, use `npm run error` to run the server with failing api requests, and use `npm run test` to run it in cypress testing db mode.
+
+if using Windows, use `npm run win:error` to run the server with failing api requests, and use `npm run win:test` to run it in cypress testing db mode.
 
 ## Api
 
