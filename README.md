@@ -1,5 +1,7 @@
 # Interview Scheduler API
 
+Database server to handle get, put, delete requests for [Interview Scheduler](https://github.com/forgehe/Scheduler)
+
 ## Setup
 
 Install dependencies with `npm install`.
